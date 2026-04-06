@@ -1,5 +1,6 @@
 # Facebook Ads Case Study Creative Testing Optimisation on a 40 Budget
 An ad campaign involving 3 ads, ran for AMITOJstudio's Etsy jewellery page
+SEE WORD DOCUMENT FOR TABLES / RESULTS
 
 📌 Facebook Ads Case Study: Creative Testing & Optimisation on a £40 Budget
 
@@ -35,25 +36,7 @@ Broader, lifestyle-focused creative
 Multiple products shown
 Less specific messaging
 
-📊 Phase 1: Initial Performance (Days 1–3)
-Metric
-Ad A
-Ad B
-Impressions
-40
-2,319
-Clicks
-1
-85
-CTR
-2.50%
-3.67%
-CPC
-£0.08
-£0.12
-Landing Page Views
-0
-80
+
 
 
 🔍 Phase 1 Insights
@@ -66,36 +49,6 @@ Paused Ad A (underperforming)
 Introduced Ad C (variant of Ad B)
 Budget reallocated toward high-performing creatives
 
-📈 Final Performance (End of Campaign)
-🔹 Ad-Level Results
-Metric
-Ad B (Green)
-Ad C (Blue Variant)
-Ad A (Paused)
-Impressions
-5,460
-4,183
-59
-Link Clicks
-205
-148
-2
-CTR
-3.75%
-3.54%
-3.39%
-CPC
-£0.11
-£0.10
-£0.11
-Landing Page Views
-166
-131
-1
-Cost per LPV
-£0.14
-£0.12
-£0.21
 
 
 🔹 Campaign Totals
