@@ -1,9 +1,9 @@
 # Facebook Ads Case Study Creative Testing Optimisation on a 40 Budget
 
 
-# 📌 Facebook Ads Case Study: Creative Testing & Optimisation
+#  Facebook Ads Case Study: Creative Testing & Optimisation
 
-## 🎯 Overview
+##  Overview
 This project documents a 10-day Facebook Ads campaign focused on testing and optimising ad creatives to improve performance metrics such as Click-Through Rate (CTR) and Cost Per Click (CPC).
 
 - **Total Budget:** £38.11  
@@ -13,7 +13,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-## 🎨 Ad Creatives
+##  Ad Creatives
 
 ### 🟢 Green Necklace – Peace Theme (Original Winner)
 ![Green Necklace Ad](assets/green-necklace-ad.png)
@@ -24,7 +24,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-### 🟣 Blue Necklace – Wisdom Theme (Variant)
+### 🔵 Blue Necklace – Wisdom Theme (Variant)
 ![Blue Necklace Ad](assets/blue-necklace-ad.png)
 
 - Iteration of the winning concept  
@@ -33,7 +33,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-### 🔵 Jewellery Collection – Lifestyle (Paused Early)
+### 🟣 Jewellery Collection – Lifestyle (Paused Early)
 ![Jewellery Collection Ad](assets/jewellery-collection-ad.png)
 
 - Lifestyle-focused creative featuring multiple products  
@@ -58,7 +58,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-## 🔄 Optimisation Strategy (Day 4)
+##  Optimisation Strategy (Day 4)
 
 - Paused the underperforming lifestyle ad  
 - Introduced a new variant (Blue Necklace) based on the winning concept  
@@ -107,7 +107,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Scale the highest-performing ad (Blue Necklace variant)  
 - Test additional variations (different hooks, visuals, messaging)  
@@ -119,7 +119,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 
 ---
 
-## 📌 Key Result
+##  Key Result
 
 > Achieved **3.66% CTR** and **£0.11 CPC** through structured creative testing and optimisation on a £38 budget.
 
