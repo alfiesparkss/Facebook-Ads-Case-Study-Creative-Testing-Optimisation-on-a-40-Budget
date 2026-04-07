@@ -1,93 +1,126 @@
 # Facebook Ads Case Study Creative Testing Optimisation on a 40 Budget
-An ad campaign involving 3 ads, ran for AMITOJstudio's Etsy jewellery page
-SEE WORD DOCUMENT FOR TABLES / RESULTS
-IMAGES OF THE ADS LOCATED IN PDF FILE
-
-📌 Facebook Ads Case Study: Creative Testing & Optimisation on a £40 Budget
-
-🎯 Objective
-The goal of this campaign was to identify which ad creative drives the highest engagement and most cost-efficient traffic, and to optimise performance over a 10-day period.
-
-⚙️ Campaign Setup
-Platform: Facebook Ads
-Campaign Type: Traffic (Landing Page Views)
-Budget: £4/day
-Duration: 10 days (27th March – 6th April)
-Total Spend: £38.11
-Structure: 1 Campaign → 1 Ad Set → 3 Ads (including 1 variant)
-
-👥 Target Audience
-Interests: Jewellery / fashion-related
-Rationale:
-A target audience of women aged 20-40 in the UK was used to allow Meta’s algorithm to optimise delivery based on engagement signals, with creative performance as the primary testing variable.
-
-🎨 Ad Creatives
-
-🟢 Ad B – Green Necklace (Peace Theme)
-Product-focused creative
-Nature-inspired aesthetic
-Messaging centred around calmness and sustainability
-
-🟣 Ad C – Blue Necklace (Wisdom Theme) (Variant)
-Iteration of winning concept
-Similar structure with new product + theme
-Designed to test scalability of winning format
-
-🔵 Ad A – Jewellery Collection (Lifestyle) (Paused Early)
-Broader, lifestyle-focused creative
-Multiple products shown
-Less specific messaging
 
 
+# 📌 Facebook Ads Case Study: Creative Testing & Optimisation
 
+## 🎯 Overview
+This project documents a 10-day Facebook Ads campaign focused on testing and optimising ad creatives to improve performance metrics such as Click-Through Rate (CTR) and Cost Per Click (CPC).
 
-🔍 Phase 1 Insights
-Ad B significantly outperformed Ad A in engagement and traffic
-Ad A failed to scale due to low delivery
-Early signal: product-focused creatives perform better than lifestyle creatives
+- **Total Budget:** £38.11  
+- **Duration:** 27 March – 6 April  
+- **Campaign Type:** Traffic (Landing Page Views)  
+- **Structure:** 1 Campaign → 1 Ad Set → 3 Ads  
 
-🔄 Optimisation Actions (Day 4)
-Paused Ad A (underperforming)
-Introduced Ad C (variant of Ad B)
-Budget reallocated toward high-performing creatives
+---
 
+## 🎨 Ad Creatives
 
+### 🟢 Green Necklace – Peace Theme (Original Winner)
+![Green Necklace Ad](assets/green-necklace-ad.png)
 
-🔹 Campaign Totals
-Total Impressions: 9,702
-Total Clicks: 355
-Average CTR: 3.66%
-Average CPC: £0.11
-Landing Page Views: 298
-Avg Cost per LPV: £0.13
+- Product-focused creative  
+- Nature-inspired design  
+- Messaging centred on calmness and sustainability  
 
-📊 Key Insights
-Product-focused creatives significantly outperformed lifestyle-based creative
-Strong and consistent CTR (~3.5%–3.75%) across winning ads
-Variant testing improved efficiency:
-Lower CPC (£0.10 vs £0.11)
-Lower cost per landing page view (£0.12 vs £0.14)
+---
 
-🧠 Overall Analysis
-Creative specificity drives performance
-Iteration on winning ads improves efficiency
-Early optimisation (pausing underperformers) is critical
+### 🟣 Blue Necklace – Wisdom Theme (Variant)
+![Blue Necklace Ad](assets/blue-necklace-ad.png)
 
-🚀 What I Would Do Next
-Scale Ad C with increased budget
-Test additional variations (new hooks, colours, messaging angles)
-Introduce retargeting campaigns
-Test video creatives vs static images
+- Iteration of the winning concept  
+- Same structure, different product and theme  
+- Created to test scalability and improve efficiency  
 
-✅ Conclusion
-This campaign demonstrates how structured testing and data-driven optimisation can significantly improve performance, even on a limited budget.
-By identifying a winning creative early and iterating on it, the campaign achieved:
-High CTR (3.66% average)
-Low CPC (£0.11)
-Cost-efficient traffic generation at scale
-Key takeaway:
-Small, strategic changes—such as pausing underperforming ads and iterating on winning creatives—can produce measurable improvements in campaign performance.
+---
 
-📌 Portfolio Highlight
-Achieved 3.66% CTR and £0.11 CPC through structured creative testing and optimisation on a £38 budget.
+### 🔵 Jewellery Collection – Lifestyle (Paused Early)
+![Jewellery Collection Ad](assets/jewellery-collection-ad.png)
+
+- Lifestyle-focused creative featuring multiple products  
+- Broader messaging with less specific focus  
+
+---
+
+## 📊 Phase 1: Initial Results (Days 1–3)
+
+| Metric | Lifestyle Ad | Green Necklace |
+|-------|-------------|----------------|
+| Impressions | 40 | 2,319 |
+| Clicks | 1 | 85 |
+| CTR | 2.50% | **3.67%** |
+| CPC | £0.08 | £0.12 |
+| Landing Page Views | 0 | **80** |
+
+### 🔍 Insights
+- The product-focused ad (Green Necklace) significantly outperformed the lifestyle ad  
+- The lifestyle ad failed to scale due to low engagement and delivery  
+- Early indication that **specific, product-led creatives perform better**
+
+---
+
+## 🔄 Optimisation Strategy (Day 4)
+
+- Paused the underperforming lifestyle ad  
+- Introduced a new variant (Blue Necklace) based on the winning concept  
+- Reallocated budget to high-performing creatives  
+
+---
+
+## 📈 Final Results (End of Campaign)
+
+### 🔹 Ad-Level Performance
+
+| Ad | Impressions | Clicks | CTR | CPC | Landing Page Views | Cost per LPV |
+|----|------------|--------|-----|-----|-------------------|--------------|
+| Green Necklace | 5,460 | 205 | **3.75%** | £0.11 | 166 | £0.14 |
+| Blue Necklace (Variant) | 4,183 | 148 | 3.54% | **£0.10** | 131 | **£0.12** |
+| Lifestyle (Paused) | 59 | 2 | 3.39% | £0.11 | 1 | £0.21 |
+
+---
+
+### 🔹 Campaign Totals
+
+- **Total Impressions:** 9,702  
+- **Total Clicks:** 355  
+- **Average CTR:** **3.66%**  
+- **Average CPC:** **£0.11**  
+- **Landing Page Views:** 298  
+- **Average Cost per LPV:** **£0.13**  
+
+---
+
+## 📊 Key Insights
+
+- **Product-focused creatives significantly outperformed lifestyle creatives**
+- Strong and consistent CTR (~3.5%–3.75%) across winning ads  
+- Iterating on a successful ad improved cost efficiency  
+- Early optimisation (pausing underperformers) improved overall campaign performance  
+
+---
+
+## 🧠 What I Learned
+
+- Creative is the biggest driver of CTR in paid social campaigns  
+- Small iterations on winning ads can improve efficiency  
+- Data-driven decisions early in a campaign have a strong impact on results  
+- Even with a small budget, structured testing can produce actionable insights  
+
+---
+
+## 🚀 Next Steps
+
+- Scale the highest-performing ad (Blue Necklace variant)  
+- Test additional variations (different hooks, visuals, messaging)  
+- Introduce retargeting campaigns  
+- Experiment with video creatives vs static images  
+
+---
+## More detailed insights to case study in PDF file and Word document attached
+
+---
+
+## 📌 Key Result
+
+> Achieved **3.66% CTR** and **£0.11 CPC** through structured creative testing and optimisation on a £38 budget.
+
 
