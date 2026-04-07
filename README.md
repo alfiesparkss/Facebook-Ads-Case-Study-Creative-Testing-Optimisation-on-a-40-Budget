@@ -22,6 +22,7 @@ Rationale:
 A target audience of women aged 20-40 in the UK was used to allow Meta’s algorithm to optimise delivery based on engagement signals, with creative performance as the primary testing variable.
 
 🎨 Ad Creatives
+
 🟢 Ad B – Green Necklace (Peace Theme)
 Product-focused creative
 Nature-inspired aesthetic
