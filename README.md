@@ -115,7 +115,7 @@ This project documents a 10-day Facebook Ads campaign focused on testing and opt
 - Experiment with video creatives vs static images  
 
 ---
-## More detailed insights to case study in PDF file and Word document attached
+## More info about case study in PDF file and Word document attached
 
 ---
 
