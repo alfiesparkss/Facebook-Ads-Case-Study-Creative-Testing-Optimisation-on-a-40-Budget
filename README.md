@@ -7,7 +7,7 @@
 This project documents a 10-day Facebook Ads campaign focused on testing and optimising ad creatives to improve performance metrics such as Click-Through Rate (CTR) and Cost Per Click (CPC).
 
 - **Total Budget:** £38.11  
-- **Duration:** 27 March – 6 April  
+- **Duration:** 27 March - 6 April  
 - **Campaign Type:** Traffic (Landing Page Views)  
 - **Structure:** 1 Campaign → 1 Ad Set → 3 Ads  
 
